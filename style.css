@@ -1,3 +1,4 @@
+/* Astrisk means universal styling. The page defaults to the * styling unless otherwirse specified later on in the stylesheet. */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -8,6 +9,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* .header styles to LOGO on the top left side of the screen. */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -50,6 +52,7 @@ p {
     font-size: 16px;
 }
 
+/* .hero adds the main photo. */
 .hero {
     height: 800px;
     width: 100%;
